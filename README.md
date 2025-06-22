@@ -26,6 +26,6 @@ pipenv install
 4. Activer l’environnement
 ```
 pipenv shell
-``
+```
 
 Il suffit ensuite de faire tourner le notebook **"dspy_tutorial.ipynb"** !
