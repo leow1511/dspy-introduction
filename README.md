@@ -27,3 +27,5 @@ pipenv install
 ```
 pipenv shell
 ``
+
+Il suffit ensuite de faire tourner le notebook **"dspy_tutorial.ipynb"** !
