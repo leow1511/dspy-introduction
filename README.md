@@ -5,6 +5,8 @@ DSPy est un pkg python qui permet d'aborder les prompts de LLMs de façon progra
 Ce répo est contruit de façon à expliquer les bases du pkg DSPy à l'aide du notebook **"dspy_tutorial.ipynb"**.
 Le notebook se présente sous forme de petits exercices explicatifs, dont la correction est dans **"dspy_tutorial_correction.ipynb"**.
 
+**❗Il vous faudra une clé API OpenAI pour executer les appels LLM.**
+
 ### Pour installer le répo :
 
 1. Cloner le dépôt
